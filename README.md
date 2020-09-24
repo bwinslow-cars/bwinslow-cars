@@ -4,10 +4,10 @@ Your health, well being and family is the most important thing in the world. I w
 
 This document is an intro to the way I work, my psychological and operational framework. It will be successful if it aids in building a better working relationship. I'm aware that all of our experiences predicate this moment and determines our leadership and engagement style.
 
-Myers Brigs = INFP
+**Myers Brigs = INFP**
 *They are not afraid of just being themselves. Their confidence makes the opinions of others less essential to their outlook and decisions. Being less likely to cave to the views of others suggests that these personalities have a greater tendency to act independently.*
 
-DISC Profile = 'D'
+**DISC Profile = 'D'**
 *Getting results, taking action and offering challenge**.* 
 
 I struggle writing '*I*' and '*me*' as many times as I do in this file. Writing in the first person is uncomfortable as I prefer pronouns like '*us*' and '*we*'. I tend not to use the word '*feel*' and choose words like '*perceive*', '*relative*' and '*reality*' instead. It's kind of quirky but you deserve to know this about me.

@@ -15,7 +15,7 @@ I struggle writing '*I*' and '*me*' as many times as I do in this file. Writing 
 I choose *action* over *inaction*. In this same vain, I value opprotunites to learn from failure - sometimes itteration is the path. Stoic perspective is the lense filtiering my reality. TLDR; controll what you can (not the inverse). Fear is a chosen reaction (as is hate/love etc ).  
 
 ### Communication
-I cherish different perspectives, thoughts and approaches. When we engage each other, I will prioritize listening over speaking.
+*I cherish different perspectives, thoughts and approaches. When we engage each other, I will prioritize listening over speaking.*
 
 I respect your time and effort to read my communications. While writing I prefer efficiency and simplicity and choose a declarative style of writing out of this respect. When possible, I limit using words when numbers are more appropriate. When using slack, I'm less formal. I'm aware of the disruptive nature of instant messaging and don't expect immediate responses. I'll use words like '*ping me when you get a sec*'. If there is urgency I'll use the appropriate adjectives.
 

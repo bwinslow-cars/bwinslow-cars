@@ -12,7 +12,7 @@ This document is an intro to the way I work, my psychological and operational fr
 
 I struggle writing '*I*' and '*me*' as many times as I do in this file. Writing in the first person is uncomfortable as I prefer pronouns like '*us*' and '*we*'. I tend not to use the word '*feel*' and choose words like '*perceive*', '*relative*' and '*reality*' instead. It's kind of quirky but you deserve to know this about me.
 
-I choose *action* over *inaction*. In this same vain, I value opprotunites to learn from failure - sometimes itteration is the path. Stoic perspective is the lense filtiering my reality. TLDR; controll what you can (not the inverse). Fear is a chosen reaction (as is hate/love etc ).  
+I choose *action* over *inaction*. In this same vain, I value opprotunites to learn from failure - sometimes iteration is the path. Stoic perspective is the lense filtering my reality. TLDR; controll what you can (not the inverse). Fear is a chosen reaction (as is hate/love etc ).  
 
 ### Communication
 *I cherish different perspectives, thoughts and approaches. When we engage each other, I will prioritize listening over speaking.*

@@ -32,7 +32,7 @@ Your health, well being and family is the most important thing in the world. I w
 
 
 ### My Job
-As a Leader, I'm measured by:
+> As a Leader, I'm measured by:
 * Meeting expectations of my title and job description
 * Mentoring and Coaching those I work with to make them better (career growth)
 * Enact principles that build on a "yes” mindset
@@ -40,9 +40,9 @@ As a Leader, I'm measured by:
 * Setting clear context for others to be successful
 * Identifying whats best for Cars Inc. and whats best for my teams
 * Recruiting quality engineers and leaders that further the mission to make cars the best place to work.
-
+> 
 My role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers and leaders to do their job.
-
+> 
 
 
 

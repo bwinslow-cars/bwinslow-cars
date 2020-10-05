@@ -38,7 +38,7 @@ Your health, well being and family is the most important thing in the world. I w
 > * Identifying whats best for Cars Inc. and whats best for my teams
 > * Recruiting quality engineers and leaders that further the mission to make cars the best place to work.
 > 
-My role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers and leaders to do their job.
+> My role is to serve those on my team, including my peers and leadership, not the other way around.  I provide air cover, perspective, experience and constraints that better equip engineers and leaders to do their job.
 > 
 
 
